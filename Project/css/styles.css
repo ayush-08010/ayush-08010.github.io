@@ -221,7 +221,7 @@ h3.menu-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/starbucks_1200.jpg') no-repeat;
+    background: url('../images/Starbucks_1200.jpg') no-repeat;
     height: 675px;
   }
 }
@@ -239,7 +239,7 @@ h3.menu-item-title {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/starbucks_992.jpg') no-repeat;
+    background: url('../images/Starbucks_992.jpg') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -249,7 +249,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/starbucks_768.jpg') no-repeat;
+    background: url('../images/Starbucks_768.jpg') no-repeat;
     height: 432px;
   }
   /* End Home Page */
